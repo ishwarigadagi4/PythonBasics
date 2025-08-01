@@ -1,0 +1,10 @@
+li=[2, 45, 76, 8, 90]
+print(len(li))
+print(list)
+li.reverse()
+print(li)
+f = max(li)
+print(f)
+li.sort()
+print(li)
+print(li[-2])
